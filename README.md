@@ -27,4 +27,5 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0178-rank-scores](https://github.com/Abdul-Hye/Leetcode/tree/master/0178-rank-scores) |
+| [0180-consecutive-numbers](https://github.com/Abdul-Hye/Leetcode/tree/master/0180-consecutive-numbers) |
 <!---LeetCode Topics End-->
