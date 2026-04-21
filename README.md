@@ -20,3 +20,11 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 - SQL 🗄️
 
 
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Database
+|  |
+| ------- |
+| [0178-rank-scores](https://github.com/Abdul-Hye/Leetcode/tree/master/0178-rank-scores) |
+<!---LeetCode Topics End-->
