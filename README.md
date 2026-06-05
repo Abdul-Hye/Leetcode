@@ -31,4 +31,5 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0181-employees-earning-more-than-their-managers](https://github.com/Abdul-Hye/Leetcode/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0183-customers-who-never-order](https://github.com/Abdul-Hye/Leetcode/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/Abdul-Hye/Leetcode/tree/master/0184-department-highest-salary) |
+| [0185-department-top-three-salaries](https://github.com/Abdul-Hye/Leetcode/tree/master/0185-department-top-three-salaries) |
 <!---LeetCode Topics End-->
