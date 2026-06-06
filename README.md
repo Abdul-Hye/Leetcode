@@ -36,4 +36,5 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0197-rising-temperature](https://github.com/Abdul-Hye/Leetcode/tree/master/0197-rising-temperature) |
 | [0511-game-play-analysis-i](https://github.com/Abdul-Hye/Leetcode/tree/master/0511-game-play-analysis-i) |
 | [0577-employee-bonus](https://github.com/Abdul-Hye/Leetcode/tree/master/0577-employee-bonus) |
+| [0584-find-customer-referee](https://github.com/Abdul-Hye/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
