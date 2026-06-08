@@ -44,4 +44,5 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0607-sales-person](https://github.com/Abdul-Hye/Leetcode/tree/master/0607-sales-person) |
 | [0610-triangle-judgement](https://github.com/Abdul-Hye/Leetcode/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0619-biggest-single-number) |
+| [0627-swap-sex-of-employees](https://github.com/Abdul-Hye/Leetcode/tree/master/0627-swap-sex-of-employees) |
 <!---LeetCode Topics End-->
