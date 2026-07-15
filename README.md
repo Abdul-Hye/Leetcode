@@ -83,4 +83,12 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abdul-Hye/Leetcode/tree/master/0125-valid-palindrome) |
+## Array
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0136-single-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
