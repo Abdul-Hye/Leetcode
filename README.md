@@ -58,8 +58,17 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abdul-Hye/Leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Abdul-Hye/Leetcode/tree/master/0070-climbing-stairs) |
 ## Binary Search
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Abdul-Hye/Leetcode/tree/master/0069-sqrtx) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abdul-Hye/Leetcode/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Abdul-Hye/Leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
