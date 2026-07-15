@@ -61,6 +61,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0070-climbing-stairs](https://github.com/Abdul-Hye/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Hye/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abdul-Hye/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -103,6 +105,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 ## Divide and Conquer
 |  |
 | ------- |
