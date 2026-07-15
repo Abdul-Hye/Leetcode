@@ -60,6 +60,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0069-sqrtx](https://github.com/Abdul-Hye/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Abdul-Hye/Leetcode/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Hye/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -87,6 +88,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abdul-Hye/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Hye/Leetcode/tree/master/0168-excel-sheet-column-title) |
+| [0171-excel-sheet-column-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0171-excel-sheet-column-number) |
 ## Array
 |  |
 | ------- |
