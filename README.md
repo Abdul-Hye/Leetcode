@@ -75,10 +75,12 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abdul-Hye/Leetcode/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 ## String
 |  |
 | ------- |
@@ -91,4 +93,8 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0136-single-number) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
