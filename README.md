@@ -80,6 +80,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Abdul-Hye/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0206-reverse-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
@@ -116,4 +117,5 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/Abdul-Hye/Leetcode/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
