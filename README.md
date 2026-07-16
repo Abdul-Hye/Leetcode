@@ -98,6 +98,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | ------- |
 | [0136-single-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/Abdul-Hye/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -110,6 +111,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abdul-Hye/Leetcode/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -124,4 +126,8 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abdul-Hye/Leetcode/tree/master/0217-contains-duplicate) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
