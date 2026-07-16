@@ -63,6 +63,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abdul-Hye/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/Abdul-Hye/Leetcode/tree/master/0258-add-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -144,4 +145,12 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
+## Simulation
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abdul-Hye/Leetcode/tree/master/0258-add-digits) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/Abdul-Hye/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
