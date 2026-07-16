@@ -82,12 +82,14 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/Abdul-Hye/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Abdul-Hye/Leetcode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## String
 |  |
 | ------- |
@@ -126,6 +128,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0203-remove-linked-list-elements](https://github.com/Abdul-Hye/Leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abdul-Hye/Leetcode/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
 ## Sorting
 |  |
 | ------- |
@@ -134,4 +137,8 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
