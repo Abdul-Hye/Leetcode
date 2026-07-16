@@ -71,6 +71,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | ------- |
 | [0069-sqrtx](https://github.com/Abdul-Hye/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/Abdul-Hye/Leetcode/tree/master/0278-first-bad-version) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -160,4 +161,8 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Abdul-Hye/Leetcode/tree/master/0258-add-digits) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Abdul-Hye/Leetcode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
