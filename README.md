@@ -103,6 +103,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Hye/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Abdul-Hye/Leetcode/tree/master/0290-word-pattern) |
 ## Array
 |  |
 | ------- |
@@ -129,6 +130,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0219-contains-duplicate-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
+| [0290-word-pattern](https://github.com/Abdul-Hye/Leetcode/tree/master/0290-word-pattern) |
 ## Divide and Conquer
 |  |
 | ------- |
