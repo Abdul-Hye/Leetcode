@@ -64,6 +64,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Abdul-Hye/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Abdul-Hye/Leetcode/tree/master/0258-add-digits) |
+| [0263-ugly-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0263-ugly-number) |
 ## Binary Search
 |  |
 | ------- |
