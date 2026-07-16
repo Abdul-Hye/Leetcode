@@ -96,6 +96,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0125-valid-palindrome](https://github.com/Abdul-Hye/Leetcode/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Abdul-Hye/Leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0171-excel-sheet-column-number) |
+| [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
 ## Array
 |  |
 | ------- |
@@ -117,6 +118,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Abdul-Hye/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -133,6 +135,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Abdul-Hye/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
