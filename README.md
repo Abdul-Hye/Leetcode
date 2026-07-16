@@ -95,6 +95,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0141-linked-list-cycle](https://github.com/Abdul-Hye/Leetcode/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Abdul-Hye/Leetcode/tree/master/0283-move-zeroes) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0219-contains-duplicate-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/Abdul-Hye/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/Abdul-Hye/Leetcode/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
