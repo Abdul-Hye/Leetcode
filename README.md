@@ -66,6 +66,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0258-add-digits](https://github.com/Abdul-Hye/Leetcode/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Abdul-Hye/Leetcode/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
 | ------- |
@@ -143,6 +144,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0206-reverse-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Abdul-Hye/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
+| [0326-power-of-three](https://github.com/Abdul-Hye/Leetcode/tree/master/0326-power-of-three) |
 ## Sorting
 |  |
 | ------- |
