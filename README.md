@@ -67,6 +67,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0263-ugly-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/Abdul-Hye/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abdul-Hye/Leetcode/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0191-number-of-1-bits](https://github.com/Abdul-Hye/Leetcode/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Abdul-Hye/Leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
+| [0342-power-of-four](https://github.com/Abdul-Hye/Leetcode/tree/master/0342-power-of-four) |
 ## Hash Table
 |  |
 | ------- |
@@ -145,6 +147,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0231-power-of-two](https://github.com/Abdul-Hye/Leetcode/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Abdul-Hye/Leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Abdul-Hye/Leetcode/tree/master/0342-power-of-four) |
 ## Sorting
 |  |
 | ------- |
