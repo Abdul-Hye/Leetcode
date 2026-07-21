@@ -74,6 +74,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0069-sqrtx](https://github.com/Abdul-Hye/Leetcode/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Abdul-Hye/Leetcode/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdul-Hye/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -99,6 +100,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0234-palindrome-linked-list](https://github.com/Abdul-Hye/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Abdul-Hye/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Abdul-Hye/Leetcode/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdul-Hye/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0228-summary-ranges](https://github.com/Abdul-Hye/Leetcode/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Abdul-Hye/Leetcode/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdul-Hye/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +139,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Abdul-Hye/Leetcode/tree/master/0290-word-pattern) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdul-Hye/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -156,6 +160,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0217-contains-duplicate](https://github.com/Abdul-Hye/Leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Abdul-Hye/Leetcode/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Abdul-Hye/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 ## Sliding Window
 |  |
 | ------- |
