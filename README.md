@@ -115,6 +115,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0242-valid-anagram](https://github.com/Abdul-Hye/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Abdul-Hye/Leetcode/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Abdul-Hye/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Abdul-Hye/Leetcode/tree/master/0383-ransom-note) |
 ## Array
 |  |
 | ------- |
@@ -147,6 +148,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [0290-word-pattern](https://github.com/Abdul-Hye/Leetcode/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Abdul-Hye/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0383-ransom-note](https://github.com/Abdul-Hye/Leetcode/tree/master/0383-ransom-note) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -190,4 +192,8 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | ------- |
 | [0278-first-bad-version](https://github.com/Abdul-Hye/Leetcode/tree/master/0278-first-bad-version) |
 | [0374-guess-number-higher-or-lower](https://github.com/Abdul-Hye/Leetcode/tree/master/0374-guess-number-higher-or-lower) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/Abdul-Hye/Leetcode/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
