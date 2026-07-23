@@ -55,6 +55,7 @@ This repo contains my solutions to various LeetCode problems, focused on improvi
 | [1211-queries-quality-and-percentage](https://github.com/Abdul-Hye/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1251-average-selling-price](https://github.com/Abdul-Hye/Leetcode/tree/master/1251-average-selling-price) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Abdul-Hye/Leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
+| [1587-bank-account-summary-ii](https://github.com/Abdul-Hye/Leetcode/tree/master/1587-bank-account-summary-ii) |
 ## Math
 |  |
 | ------- |
